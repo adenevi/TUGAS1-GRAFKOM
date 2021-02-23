@@ -22,5 +22,3 @@ glutDisplayFunc(display);
 glutMainLoop();
 return 0;
 }
-
-/* Ni Made Widiasanti / 19051397002 / D4 Manajemen Informatika 2019A / Grafika Komputer */
